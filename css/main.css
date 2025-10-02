@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+
+:root {
+    --color-main: #100026;
+    --color-white: #ececec;
+    --color-gray: #e2e2e2;
+    --color-red: #470000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'New Rocker';
+}
+
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+    margin: 0;
+    padding: 0;
+}
+s
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
